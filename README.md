@@ -1,3 +1,12 @@
-# My Awesome Book
+# PWA Camp
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a living document to provide context, understanding and resources related to the fast-evolving field of _Progressive Web Apps \(PWA\)_ that sits at the intersection of web development, performance, mobile device 'native' experiences and offline-first thinking. At it's heart PWA is about the philosophy and best practices surrounding the development of web applications for mobile devices in a manner that makes them competitive with native experiences while leveraging the benefits of having a near-ubiquitous presence of browser platforms on these devices.
+
+The PWA concepts and philosophy continue to evolve so one of the primary goals of this document is to chart the history of the evolution while also making it easy to track current status and plans.
+
+This particular page will be used to outline the Table of Contents for this book later ..
+
+
+
+![](/assets/pwacamp.png)
+
