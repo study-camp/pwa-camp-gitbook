@@ -9,4 +9,8 @@
 ## Training
 
 * [Getting Started](training/getting-started.md)
+* [Service Workers](training/service-workers.md)
+* Fetch API
+* SW Cache
+* Lighthouse
 
