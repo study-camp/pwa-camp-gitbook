@@ -10,7 +10,7 @@
 
 * [Getting Started](training/getting-started.md)
 * [Service Workers](training/service-workers.md)
-* Fetch API
-* SW Cache
-* Lighthouse
+* [Fetch API](training/fetch-api.md)
+* [SW Cache](training/sw-cache.md)
+* [Lighthouse](training/lighthouse.md)
 
