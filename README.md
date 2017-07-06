@@ -6,5 +6,5 @@ The PWA concepts and philosophy continue to evolve so one of the primary goals o
 
 This particular page will be used to outline the Table of Contents for this book later ..
 
-![](/assets/pwacamp.png)
+![](/assets/noun_1053405_d13076 %281%29.png)
 
