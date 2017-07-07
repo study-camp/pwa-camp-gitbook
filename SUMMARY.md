@@ -14,3 +14,5 @@
 * [SW Cache](training/sw-cache.md)
 * [Lighthouse](training/lighthouse.md)
 
+## Cookbook
+
